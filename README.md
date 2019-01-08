@@ -1,6 +1,3 @@
-#[*] If you have any questions about the script or any edits that can be implemented, then email me:
-Eliezer Colon <eliezer.colon@jjay.cuny.edu>
-
 #Note: The "move_to_sslsplit_in_ssa-daemon" is a directory that contains pxyconn.c, that is later used in the process. You do not need to modify the file or do anything with that directory. 
 #Also, please DO NOT DELELTE THE DIRECTORY OR FILE EITHER.
 
