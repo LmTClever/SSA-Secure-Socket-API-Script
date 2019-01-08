@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Author: Eliezer Colon <eliezer.colon@jjay.cuny.edu>
+# Author: Eliezer Colon
 #
 # Date: 11/28/2018
 #
